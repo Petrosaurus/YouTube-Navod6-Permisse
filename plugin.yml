@@ -1,0 +1,9 @@
+name: AhojPlugin
+version: 1.0
+author: Petrosaurus
+description: AHoj Ahoj
+main: me.Petrosaurus.Permisse.Main
+commands:
+   ahoj:
+      description: Pozdravi te
+   
